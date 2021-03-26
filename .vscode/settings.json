@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/opt/homebrew/bin/python3",
+    "terminal.integrated.automationShell.osx": "/bin/zsh",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontFamily": "Ubuntu Mono derivative Powerline",
+    "editor.fontSize": 14,
+    "editor.codeLensFontFamily": "Ubuntu Mono derivative Powerline",
+    "editor.codeLensFontSize": 14,
+}
